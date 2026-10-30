@@ -1,0 +1,21 @@
+README.md
+pyproject.toml
+src/asset_ingestion/__init__.py
+src/asset_ingestion/__main__.py
+src/asset_ingestion/cli.py
+src/asset_ingestion/database.py
+src/asset_ingestion/evaluation.py
+src/asset_ingestion/features.py
+src/asset_ingestion/import_history.py
+src/asset_ingestion/model.py
+src/asset_ingestion/normalize.py
+src/asset_ingestion/pipeline copy.py
+src/asset_ingestion/pipeline.py
+src/asset_ingestion/providers.py
+src/asset_ingestion/visualize.py
+src/asset_ingestion.egg-info/PKG-INFO
+src/asset_ingestion.egg-info/SOURCES.txt
+src/asset_ingestion.egg-info/dependency_links.txt
+src/asset_ingestion.egg-info/requires.txt
+src/asset_ingestion.egg-info/top_level.txt
+tests/test_ingestion.py

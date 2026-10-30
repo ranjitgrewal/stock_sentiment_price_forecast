@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: asset-ingestion
+Version: 0.1.0
+Summary: Ingest asset-related X posts, prices, and news into SQLite
+Requires-Python: >=3.10
+Requires-Dist: apify-client<3,>=1.7
+Requires-Dist: matplotlib<4,>=3.8
+Requires-Dist: pandas<4,>=2.0
+Requires-Dist: python-dotenv<2,>=1.0
+Requires-Dist: requests<3,>=2.31
+Requires-Dist: scikit-learn<2,>=1.4
+Provides-Extra: test
+Requires-Dist: pytest<9,>=8; extra == "test"
